@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594075494 source:c:\users\hp\desktop\proyectofinalprogra\juegosnake\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+
